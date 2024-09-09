@@ -18,3 +18,19 @@
 ### Transact-SQL Exercises and Demonstrations
 
 [Labs](https://microsoftlearning.github.io/dp-080-Transact-SQL/)
+
+### Reading Assignment 
+
+#### Databases
+
+[Relational vs non-relational BDs](https://www.pluralsight.com/blog/software-development/relational-vs-non-relational-databases)
+
+[DB Types](https://www.mongodb.com/resources/basics/databases/types)
+
+[Relational vs non-relational BDs](https://www.mongodb.com/resources/compare/relational-vs-non-relational-databases)https://www.mongodb.com/resources/compare/relational-vs-non-relational-databases
+
+[XML Documents](https://www.w3schools.com/xml/default.asp)
+
+[JSON](https://www.w3schools.com/js/js_json.asp)
+
+[Types of DB](https://www.geeksforgeeks.org/types-of-databases/) d
