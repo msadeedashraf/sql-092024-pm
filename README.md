@@ -29,14 +29,15 @@
 
 #### Databases
 
+
+[Types od Databases](https://www.matillion.com/blog/the-types-of-databases-with-examples)
+[Link2](https://www.mongodb.com/resources/basics/databases/types)
+[Link3](https://www.geeksforgeeks.org/types-of-databases/) 
+
 [Relational vs non-relational BDs](https://www.pluralsight.com/blog/software-development/relational-vs-non-relational-databases)
-
-[DB Types](https://www.mongodb.com/resources/basics/databases/types)
-
-[Relational vs non-relational BDs](https://www.mongodb.com/resources/compare/relational-vs-non-relational-databases)
+[Link2](https://www.mongodb.com/resources/compare/relational-vs-non-relational-databases)
+[Link3](https://www.mongodb.com/resources/compare/relational-vs-non-relational-databases)
 
 [XML Documents](https://www.w3schools.com/xml/default.asp)
 
 [JSON](https://www.w3schools.com/js/js_json.asp)
-
-[Types of DB](https://www.geeksforgeeks.org/types-of-databases/) 
