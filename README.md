@@ -19,6 +19,12 @@
 
 [Labs](https://microsoftlearning.github.io/dp-080-Transact-SQL/)
 
+### AdventureWorks sample databases
+
+[AdventureWorks sample databases](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+
+[Download AdventureWorksLT2019](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksLT2019.bak)
+
 ### Reading Assignment 
 
 #### Databases
@@ -33,4 +39,4 @@
 
 [JSON](https://www.w3schools.com/js/js_json.asp)
 
-[Types of DB](https://www.geeksforgeeks.org/types-of-databases/) d
+[Types of DB](https://www.geeksforgeeks.org/types-of-databases/) 
