@@ -33,7 +33,7 @@
 
 [DB Types](https://www.mongodb.com/resources/basics/databases/types)
 
-[Relational vs non-relational BDs](https://www.mongodb.com/resources/compare/relational-vs-non-relational-databases)https://www.mongodb.com/resources/compare/relational-vs-non-relational-databases
+[Relational vs non-relational BDs](https://www.mongodb.com/resources/compare/relational-vs-non-relational-databases)
 
 [XML Documents](https://www.w3schools.com/xml/default.asp)
 
