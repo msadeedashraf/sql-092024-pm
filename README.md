@@ -41,3 +41,12 @@
 [XML Documents](https://www.w3schools.com/xml/default.asp)
 
 [JSON](https://www.w3schools.com/js/js_json.asp)
+
+### Useful Links
+[SQL Basics Cheat Sheet](https://learnsql.com/blog/sql-basics-cheat-sheet/)
+[SQL tips for beginners](https://dev.to/rap2hpoutre/sql-tips-for-beginners-what-i-learned-after-15-years-of-occasionally-writing-queries-and-schemas-as-a-fullstack-dev-2ide)
+[T-SQL Tips and Tricks](https://www.mssqltips.com/sqlservertip/6727/tsql-tips-tricks/)
+[Database Normalization](https://www.guru99.com/database-normalization.html)
+[Database Normalization](https://launchschool.com/books/sql/read/table_relationships)
+[Database Normalization](https://www.analyticsvidhya.com/blog/2022/08/database-normalization-a-step-by-step-guide-with-examples/)
+[Database Normalization](https://www.freecodecamp.org/news/database-normalization-1nf-2nf-3nf-table-examples/)
