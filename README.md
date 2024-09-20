@@ -56,3 +56,7 @@
 [Database Normalization](https://www.analyticsvidhya.com/blog/2022/08/database-normalization-a-step-by-step-guide-with-examples/)
 
 [Database Normalization](https://www.freecodecamp.org/news/database-normalization-1nf-2nf-3nf-table-examples/)
+
+[Date Formats](https://www.mssqltips.com/sqlservertip/1145/date-and-time-conversions-using-sql-server/)
+
+[Date Format MSSQL Server](https://learn.microsoft.com/en-us/sql/t-sql/functions/date-and-time-data-types-and-functions-transact-sql?view=sql-server-ver16)
